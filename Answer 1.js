@@ -1,6 +1,6 @@
-function sum(a,b){
+function Sum(a,b){
     return a+b;
 }
-console.log(sum(3,5));
+console.log(Sum(2,8));
 
 
