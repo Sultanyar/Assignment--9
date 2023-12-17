@@ -5,7 +5,7 @@ class Book {
     }
   }
   
-  var myBook = new Book("The Great Gatsby", "F. Scott Fitzgerald");
+  var myBook = new Book("Ahmad", "F. Scott Ali");
   
   console.log("Title: " + myBook.title);
   console.log("Author: " + myBook.author);
