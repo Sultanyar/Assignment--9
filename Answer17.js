@@ -15,5 +15,5 @@ class Person {
   var myPerson = new Person("John");
   console.log(myPerson.name);
   
-  myPerson.name = "Jane";
+  myPerson.name = "John";
   console.log(myPerson.name); 
