@@ -1,8 +1,8 @@
 
-var x = "Hello Mates"; 
+var S = "Hello Mates"; 
 
 function myFunction() {
-  console.log(x); 
+  console.log(S); 
 }
 
 myFunction();
