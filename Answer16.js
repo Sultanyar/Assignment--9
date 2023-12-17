@@ -4,4 +4,4 @@ class Calculator {
     }
   }
   
-  console.log(Calculator.add(5, 3));
+  console.log(Calculator.add(6, 3));
