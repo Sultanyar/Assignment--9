@@ -5,5 +5,5 @@ function greet(greeting) {
   console.log(greeting + ", " + this.name);
 }
 
-greet.call(person1, "Hello");
+greet.call(person1, "Hello World");
 greet.apply(person2, ["Hi"]);
