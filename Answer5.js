@@ -7,7 +7,7 @@ function printObject(obj) {
   var person = {
     name: "John Doe",
     age: 30,
-    address: "123 Main St"
+    address: "123 Wallaiat St"
   };
   
   printObject(person);
