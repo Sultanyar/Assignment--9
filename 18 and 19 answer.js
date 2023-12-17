@@ -14,7 +14,7 @@ var person = {
             {id: 1, name: "Nodde,js", pages: 1120},
             {id: 2, name: "React.js", pages: 720},
         ],
-        address: { country: "Afghanistan", province: "Herat", disrict: "Karukh"},
+        address: { country: "Afghanistan", province: "Herat", disrict: "Zandajan"},
     },
     {
         id: 1098,
