@@ -1,4 +1,4 @@
-class Calculator {
+class Calculator1 {
     constructor() {
       this.result = 0;
     }
