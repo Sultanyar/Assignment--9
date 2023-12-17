@@ -1,5 +1,5 @@
 var person = {
     name: "John Doe",
-    age: 30,
+    age: 40,
     address: "123 Main St"
   };
